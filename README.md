@@ -8,6 +8,8 @@
   * 정부에서 도시락 배달, 안부 묻기 등 봉사를 진행 중이지만 현재 인력과 예산이 부족한 상황임.
 ## 아이템 소개
 * AI를 이용한 소방차 전용구역 불법 주정차 방지
+![image](https://user-images.githubusercontent.com/57648072/174472963-0ffa6d26-e115-4623-b70b-067a386471c6.png)
+![image](https://user-images.githubusercontent.com/57648072/174472970-2a182459-77fb-4084-aa6b-eaaee189abf2.png)
 
 ## 고찰 및 결론
 * 거리에 따른 번호판 인식의 한계
