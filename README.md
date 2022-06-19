@@ -1,0 +1,1 @@
+# Securing-a-dedicated-area-for-fire-trucks-using-AI
